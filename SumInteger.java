@@ -1,7 +1,7 @@
 public  class SumInteger{
 
     public static void main(String[] args) {
-        System.out.println(findSum("PRA12Ga782d45601$3"));
+        System.out.println(findSum("PRA12Ga782d45601$3 45"));
     }
 
     public static int findSum(String nums){
