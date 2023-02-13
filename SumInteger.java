@@ -1,4 +1,4 @@
-public  class SumInteger{
+public class SumInteger{
 
     public static void main(String[] args) {
         System.out.println(findSum("PRA12Ga782d45601$3"));
